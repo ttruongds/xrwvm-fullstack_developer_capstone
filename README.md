@@ -1,6 +1,12 @@
 # CarDealership Review Web application
 This repository contains the code for a cloud-hosted Django web application designed for a fictional car dealership where users can add review for any car models and dealerships.
 
+## Technologies used
+- Django
+- Javascript
+- Python
+- HTML & CSS
+  
 ## Demo
 Landing page will allow users to login or register new account <br>
 ![landing_page](images/1_landingpage.png) <br>
